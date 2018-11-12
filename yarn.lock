@@ -2060,8 +2060,8 @@ formidable@^1.1.1:
   resolved "https://registry.yarnpkg.com/formidable/-/formidable-1.1.1.tgz#96b8886f7c3c3508b932d6bd70c4d3a88f35f1a9"
 
 forwarded@~0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/forwarded/-/forwarded-0.1.0.tgz#19ef9874c4ae1c297bcf078fde63a09b66a84363"
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/forwarded/-/forwarded-0.1.2.tgz#98c23dab1175657b8c0573e8ceccd91b0ff18c84"
 
 freeport-async@^1.1.1:
   version "1.1.1"
@@ -5250,8 +5250,9 @@ webidl-conversions@^4.0.0:
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/webidl-conversions/-/webidl-conversions-4.0.1.tgz#8015a17ab83e7e1b311638486ace81da6ce206a0"
 
-"websql@github:expo/node-websql#18.0.0":
+websql@expo/node-websql#18.0.0:
   version "0.4.4"
+  uid e364fa65146a9e2157a19e5c719e7702c2b6b87a
   resolved "https://codeload.github.com/expo/node-websql/tar.gz/e364fa65146a9e2157a19e5c719e7702c2b6b87a"
   dependencies:
     argsarray "^0.0.1"
